@@ -11,13 +11,13 @@ export default function Travel() {
     return (
         <ScrollView>
             <View style={{ flex: 1, paddingTop : 50  }}>
-                <Text> Week 3 </Text>
-                <Signup />
-                <Card />
-                <Hotel /> 
-                <MyIcon title='หัวใจ' name='heart' size={30} color='orange'/>
-                <MyIcon title='บ้าน' name='home' size={30} color='tomato'/>
-                <Menu />
+                {/* <Text> Week 3 </Text> */}
+                {/* <Signup /> */}
+                {/* <Card /> */}
+                {/* <Hotel />  */}
+                {/* <MyIcon title='หัวใจ' name='heart' size={30} color='orange'/> */}
+                {/* <MyIcon title='บ้าน' name='home' size={30} color='tomato'/> */}
+                {/* <Menu /> */}
             </View>
         </ScrollView>
     );

@@ -22,7 +22,7 @@ export default function Section7() {
 
             <View style={{ flexDirection: 'column', justifyContent: 'flex-start' , alignItems: 'flex-start' }}>
                 <Text style={{ fontSize: 20, color: 'green' }}>Standard Twin Room</Text>
-                <Text style={{ color: 'oreng', marginTop: 20 }}>$399.99</Text>
+                <Text style={{ color: 'orenge', marginTop: 20 }}>$399.99</Text>
                 <Text style={{ fontSize: 10 ,  }}>Hurry Up! This is your last room!
 </Text>
             </View>

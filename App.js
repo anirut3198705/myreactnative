@@ -27,9 +27,9 @@ import RootStack from './navigations/RootStack';
 export default function App() {
   return (
     <NavigationContainer>
-            <HomeStack />
+            {/* <HomeStack /> */}
             {/* <BottomTab /> */}
-            {/* <RootStack /> */}
+            <RootStack />
         </NavigationContainer>
 
 
